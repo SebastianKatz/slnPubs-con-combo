@@ -1,0 +1,14 @@
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\bin\Debug\Datos.dll
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\bin\Debug\Datos.pdb
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\bin\Debug\Datos.dll.config
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\obj\Debug\WindowsPubs.csproj.AssemblyReference.cache
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\obj\Debug\WindowsPubs.Form1.resources
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\obj\Debug\WindowsPubs.frmPublisher.resources
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\obj\Debug\WindowsPubs.Properties.Resources.resources
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\obj\Debug\WindowsPubs.csproj.GenerateResource.cache
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\obj\Debug\WindowsPubs.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\obj\Debug\WindowsPubs.exe
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\obj\Debug\WindowsPubs.pdb
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\bin\Debug\WindowsPubs.exe.config
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\bin\Debug\WindowsPubs.exe
+C:\Users\Sebi\source\repos\slnPubs\WindowsPubs\bin\Debug\WindowsPubs.pdb

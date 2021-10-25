@@ -1,0 +1,6 @@
+C:\Users\Sebi\source\repos\slnPubs\Datos\bin\Debug\Datos.dll.config
+C:\Users\Sebi\source\repos\slnPubs\Datos\bin\Debug\Datos.dll
+C:\Users\Sebi\source\repos\slnPubs\Datos\bin\Debug\Datos.pdb
+C:\Users\Sebi\source\repos\slnPubs\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\slnPubs\Datos\obj\Debug\Datos.dll
+C:\Users\Sebi\source\repos\slnPubs\Datos\obj\Debug\Datos.pdb
